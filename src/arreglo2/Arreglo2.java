@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Usuario
+ * @author Kenneth
  */
 public class Arreglo2 {
     public static void main(String[] args) {

@@ -6,7 +6,7 @@ package arreglo2;
 
 /**
  *
- * @author Usuario
+ * @author Kenneth
  */
 public class FusionarYOrdenar {
    public static int[] fusionarYOrdenar(int[] nums1, int[] nums2) {
